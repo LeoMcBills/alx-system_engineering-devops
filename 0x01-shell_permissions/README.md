@@ -25,4 +25,6 @@ A script that sets the mode of the file hello as according
 
 A script that sets the mode of the file hello the same as olleh’s mode.
 
-A script that creates a directory called myDir r with permissions 751 in the working directory  
+A script that creates a directory called myDir r with permissions 751 in the working directory 
+A script that changes the group owner to school for the file hello
+ 
